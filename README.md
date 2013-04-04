@@ -1,16 +1,16 @@
-# NAME
+## NAME
 
 __space\_molding__
 
-# DESCRIPTION
+## DESCRIPTION
 
 A novel cavity aided homology modeling approach.
 
-# SYNOPSIS
+## SYNOPSIS
 
 ./space\_molding.pl file
 
-# DEPENDENCIES
+## DEPENDENCIES
 
 \-Perl, >= 5.10
 
@@ -22,11 +22,11 @@ A novel cavity aided homology modeling approach.
 
 \-Math::Round, >= 0.06 (Perl module)
 
-# AUTHOR
+## AUTHOR
 
 Dimitrios - Georgios Kontopoulos <<dgkontopoulos@gmail.com>>
 
-# LICENSE
+## LICENSE
 
 This program is free software: you can redistribute it 
 and/or modify it under the terms of the GNU General 
