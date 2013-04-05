@@ -6,9 +6,9 @@ __space\_molding__
 
 A novel space aided homology modeling approach.
 
-## SYNOPSIS
+## SYNOPSIS (running command)
 
-./space\_molding.pl file
+space\_molding.pl file
 
 ## DEPENDENCIES
 
@@ -21,6 +21,23 @@ A novel space aided homology modeling approach.
 \-List::Util, >= 1.25 (Perl module)
 
 \-Math::Round, >= 0.06 (Perl module)
+
+## EXAMPLES
+
+### -Visualisation (with superposition and slab)
+
+<a href= 'https://github.com/dgkontopoulos/space_molding/raw/gh-pages/examples/S3T_ideal.pdb'><img src='http://ubuntuone.com/7XA2zt84KmV6rv6TJ1oo5o' title = 'Click here to download the starting PDB file.'></a>
+
+### -Output PDB file example (logo)
+
+<a href='https://github.com/dgkontopoulos/space_molding/raw/gh-pages/examples/1YI5_model.pdb'>1YI5_model.pdb</a> - model of the a-cobratoxin-AChBP complex</p>
+
+## SUPPORTED OPERATING SYSTEMS
+
+<b>space_molding</b> runs out of the box -via install.sh- on GNU/Linux and OSX systems (reasonably up to date ones, that is).
+<br><br>It <u>should</u> run out of the box -via install.sh- on BSD systems, as well.
+<br><br>It <u>can</u> run on Windows systems, as long as you manually install Perl and the other dependencies listed above.
+The install.sh script won't work on default Windows systems.
 
 ## AUTHORS
 
