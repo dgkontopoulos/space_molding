@@ -4,7 +4,7 @@ __space\_molding__
 
 ## DESCRIPTION
 
-A novel cavity aided homology modeling approach.
+A novel space aided homology modeling approach.
 
 ## SYNOPSIS
 
@@ -22,9 +22,13 @@ A novel cavity aided homology modeling approach.
 
 \-Math::Round, >= 0.06 (Perl module)
 
-## AUTHOR
+## AUTHORS
 
-Dimitrios - Georgios Kontopoulos <<dgkontopoulos@gmail.com>>
+\-Dimitrios - Georgios Kontopoulos <<dgkontopoulos@gmail.com>>
+
+\-Dimitrios Vlachakis <<dvlachakis@bioacademy.gr>>
+
+\-Sophia Kossida <<skossida@bioacademy.gr>>
 
 ## LICENSE
 

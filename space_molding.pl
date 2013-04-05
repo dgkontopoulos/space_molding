@@ -6,7 +6,7 @@ B<space_molding>
 
 =head1 DESCRIPTION
 
-A novel cavity aided homology modeling approach.
+A novel space aided homology modeling approach.
 
 =head1 SYNOPSIS
 
@@ -24,9 +24,13 @@ A novel cavity aided homology modeling approach.
 
 -Math::Round, >= 0.06 (Perl module)
 
-=head1 AUTHOR
+=head1 AUTHORS
 
-Dimitrios - Georgios Kontopoulos <<dgkontopoulos@gmail.com>>
+-Dimitrios - Georgios Kontopoulos <<dgkontopoulos@gmail.com>>
+
+-Dimitrios Vlachakis <<dvlachakis@bioacademy.gr>>
+
+-Sophia Kossida <<skossida@bioacademy.gr>>
 
 =head1 LICENSE
 
